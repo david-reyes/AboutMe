@@ -8,12 +8,13 @@ Some other text. Because.
 It is so important. So, very, important
 ## Haiku
 Because life
-isn't often
-like the refrigerator
+isn't always
+like a refrigerator
 in snow
 #### This is an H4 heading.
-# Major title test
+# Major title
 List of features to add:
-* This is how lists work
-* look more things
-* and even more
+* dynamic listing
+* static outsourcing
+* inverted conversion
+* internationalization modularity
