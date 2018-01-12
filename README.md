@@ -8,7 +8,7 @@ Some other text. Because.
 It is so important. So, very, important
 ## Haiku
 Because life
-isn't always
-like a refrigerator
+isn't often
+like the refrigerator
 in snow
 #### This is an H4 heading.
