@@ -14,7 +14,8 @@ in snow
 #### This is an H4 heading.
 # Major title
 List of features to add:
-* dynamic listing
-* static outsourcing
+* Blockchain social networking
+* dynamic concurrency
 * inverted conversion
 * internationalization modularity
+* flux capacitance
