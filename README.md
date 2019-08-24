@@ -17,7 +17,6 @@ Though it didn't end how I hoped it would end, I learned the app world from the 
 
 And so I was inspired to learn how to code in Swift. I started soon after Swift became open source available, in December 2015, so I count myself as an early adopter. Learning was hard, very hard, at first. But my hopes remain unaffected by the difficulties: I want to create apps that accesses a global user base.
 
-**
 Previously in life, I was the lead MEMS technologist for a string of MEMS-based companies, mostly startups. MEMS is a field in mechanical engineering where structures are built using silicon that are smaller than the diameter of a human hair. I have five patents in my field and a couple of publications. It introduced me to the exciting world of startups, which is where I gravitate and where I thrive.
 
 
