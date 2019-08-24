@@ -2,9 +2,7 @@
 
 First, a little bit about me.
 
-I'm a solo iOS app developer.
-
-I'm self-taught by way of Ray Wenderlich. I've read two RW books: Swift Apprentice, and iOS Apprentice. I'm currently reading Data Structures & Algorithms, and Server Side Swift with Vapor. I aim to become a full stack developer, and I have hopes of creating and publishing my own apps.
+I'm a self-taught iOS app developer by way of Ray Wenderlich. I've read two RW books: Swift Apprentice and iOS Apprentice. I'm currently reading Data Structures & Algorithms, and Server Side Swift with Vapor. I aim to become a full stack developer, and I have hopes of creating and publishing my own apps.
 
 I've built one app, NFL Draftipedia. It's a reference app that lists NFL draft picks by year and by team, with a bio page for each player. It has a search capability. I submitted for it review three times to the App Store, and each time it was rejected for insufficient content and insufficient features. So I added more of each after each rejection, to no avail. I wrote a strong rebuttal after the third rejection: There was once an app in the App Store that did exactly the same thing as my app, which has since been deleted from the App Store due to it no longer being maintained; and my app does what that app did but mine is better. In other words, my app fills a hole in the App Store. I was fortunate enough to warrant a phone call from Apple. They said they no longer accept reference apps, no matter how complete the data set; or how well-curated for the intended audience it might be; and no matter the feature set surrounding it, including a social media component, which was exactly a feature that I intended to include in a later version. It had to have an app experience more meaningful than the value of the data alone, they said.
 
@@ -18,24 +16,3 @@ And so I was inspired to learn how to code in Swift. I started soon after Swift 
 
 Previously in life, I was the lead MEMS technologist for a string of MEMS-based companies, mostly startups. MEMS is a field in mechanical engineering where structures are built using silicon that are smaller than the diameter of a human hair. I have five patents in my field and a couple of publications. It introduced me to the exciting world of startups, which is where I gravitate and where I thrive.
 
-
-
-## markdown syntax
-markdown uses "hash" characters to map to HTML headings. One hash is H1, two hashes is H2, and so on.
-### This is an H3 heading
-Some other text. Because.
-### This is important
-It is so important. So, very, important
-## Haiku
-Because life
-isn't always
-like a refrigerator
-in snow
-#### This is an H4 heading.
-# Major title
-List of features to add:
-* Blockchain social networking
-* dynamic concurrency
-* inverted conversion
-* internationalization modularity
-* flux capacitance
