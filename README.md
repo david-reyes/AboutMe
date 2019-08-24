@@ -18,9 +18,9 @@ Some other text. Because.
 ### This is important
 It is so important. So, very, important
 ## Haiku
-Because life /n
-isn't always /n
-like a refrigerator /n
+Because life \n
+isn't always \n
+like a refrigerator \n
 in snow
 #### This is an H4 heading.
 # Major title
