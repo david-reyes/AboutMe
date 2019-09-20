@@ -14,4 +14,4 @@ And so I was inspired to learn how to code in Swift because I want to be a part 
 
 ## MEMS
 
-In my previous career I was the lead MEMS technologist for a string of MEMS-based companies, mostly startups. MEMS is a field in mechanical engineering where structures smaller than the diameter of a human hair are built using silicon. It has a number of applications, most prominently in optics. I've been awarded five patents in my field and a couple of publications.
+In my previous career I was the lead MEMS technologist for a string of MEMS-based companies, mostly startups. MEMS is a field in mechanical engineering where structures smaller than the diameter of a human hair are built using silicon. It has a number of applications, most prominently in optics. I've been awarded five patents in my field and written a couple of publications.
